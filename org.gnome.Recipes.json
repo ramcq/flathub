@@ -63,7 +63,8 @@
                     {
                         "type": "git",
                         "url": "git://git.gnome.org/recipes",
-                        "branch": "1.0.4"
+                        "branch": "1.0.4",
+                        "commit": "cdfb19b90587bc0c44404fae30c139f9ec1cca5c"
                     }
             ]
         }
